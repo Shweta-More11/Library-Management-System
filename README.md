@@ -11,3 +11,19 @@ Create a database named "LibraryManagementSystem". Then, design tables to captur
 - **Members**: Stores information about library members.
 - **BorrowingRecords**: Tracks the borrowing and return status of books.
 - **LateFees**: Tracks fees for overdue books.
+
+
+**Questions Explored**
+1. **List all books available in the library, along with their genres and available copies.**
+2. **Show the names of all authors and their countries.**
+3. **Retrieve the names of members who joined in 2023.**
+4. **Find all books by the author 'George Orwell'.**
+5. **Display a list of all borrowed books that have not been returned yet.**
+6. **Count the total number of active library members.**
+7. **Retrieve the details of all books published before the year 2000.**
+8. **Find the total number of books available by genre.**
+9. **List all books along with their respective author names.**
+10. **Show the names of members and the titles of the books they have borrowed.**
+11. **Retrieve the details of books published between 1980 and 2000 using the `BETWEEN` clause.**
+12. **List all books sorted by `PublicationYear` in descending order using the `ORDER BY` clause.**
+

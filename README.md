@@ -30,14 +30,20 @@ Create a database named "LibraryManagementSystem". Then, design tables to captur
 
 Flowchart:
    This flowchart outlines the core steps in the Library Management System's database workflow:
+   
 **Step 1**: Start
+
 **Step 2**: Create Database Structure
       - Create tables for Books, Authors, Members, BorrowingRecords, and LateFees
+      
 **Step 3**: Insert Initial Data
       - Populate tables with sample data for books, authors, members, and borrowing records
+      
 **Step 4**: Execute Queries
       - Queries to list available books, overdue books, or unpaid fees
+      
 **Step 5**: Update Database
       - Insert new records, update book availability, or calculate and update late fees
+      
 **Step 6**: End
 
